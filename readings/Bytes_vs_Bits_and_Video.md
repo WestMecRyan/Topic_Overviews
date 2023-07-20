@@ -15,6 +15,7 @@
 | Zettabyte (ZB) | 1024 exabytes | Used in contexts of extremely large data scale, such as data generated globally in a year. |
 | Yottabyte (YB) | 1024 zettabytes | Currently theoretical in the context of computer storage, as no system exists with such capacity. |
 
+![Bits and Bytes Image](./bits_bytes_drawing.png)
 
 > When we're talking about data transfer rates, like streaming video or networking, we usually measure in bits per second (bps), not bytes. This is because data transmission has historically been measured in signal changes over time, which matches nicely with a bit-based rate. For example, if you have an internet connection speed of 50 Mbps, that means you can receive up to 50 million bits per second.
 
